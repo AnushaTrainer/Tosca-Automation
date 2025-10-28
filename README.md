@@ -1,4 +1,4 @@
-🚀 Generate One-Time Passwords (TOTP) in Tosca – Simplify MFA/2FA Testing!
+**🚀 Generate One-Time Passwords (TOTP) in Tosca – Simplify MFA/2FA Testing!**
 
 Tired of manually entering OTPs during your automation runs?
 Here’s a ready-to-use Tosca solution that generates and stores valid 6-digit Time-based One-Time Passwords (TOTP) — compatible with Microsoft & Google Authenticator! 🔐
